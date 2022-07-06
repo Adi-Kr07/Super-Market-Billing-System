@@ -1,5 +1,5 @@
 # Super-Market-Billing-System
-A super market billing system made using CPP by Team #3, CSE B submitting for our Object Oriented Programming using C++ mini project in the academic year 2020-21.
+A super market billing system made using C plus plus with having concepts of Object Oriented Programming dealing with real world management.
 
 
 <!-- TABLE OF CONTENTS -->
@@ -47,7 +47,7 @@ It would be best if you are familiar with the following concepts in C++ before j
 <!-- ROADMAP -->
 ## Roadmap
 
-This is our Mini Project for the subject Object Oriented Programming with C++, which we have submitted in our 2nd year, 1st Semester during the academic year 2020-21. 
+This is the Project for the subject Object Oriented Programming with C++, .. 
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -69,14 +69,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* I would like to express my special thanks of gratitude to my faculty (Romy Sir) who gave us the golden opportunity to do this wonderful project on the topic 
-supermarket-billing-system, Which helped us gain a lot of indepth knowledge on the CPP core concepts as well as OOP concepts.
