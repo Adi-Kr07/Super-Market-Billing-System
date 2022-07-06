@@ -72,7 +72,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/mg143pavankumar/supermarket-billing-system/](https://github.com/mg143pavankumar/supermarket-billing-system/)
 
 
 
