@@ -47,7 +47,7 @@ It would be best if you are familiar with the following concepts in C++ before j
 <!-- ROADMAP -->
 ## Roadmap
 
-This is the Project for the subject Object Oriented Programming with C++, .. 
+This is the Project for learning as well as making with Object Orirnted Programming and its concepts in C++ language in Real-World Environment. 
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -59,13 +59,3 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
